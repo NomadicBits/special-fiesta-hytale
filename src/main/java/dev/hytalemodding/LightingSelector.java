@@ -8,9 +8,9 @@ import dev.hytalemodding.events.ExampleEvent;
 
 import javax.annotation.Nonnull;
 
-public class ExamplePlugin extends JavaPlugin {
+public class LightingSelector extends JavaPlugin {
 
-    public ExamplePlugin(@Nonnull JavaPluginInit init) {
+    public LightingSelector(@Nonnull JavaPluginInit init) {
         super(init);
     }
 
